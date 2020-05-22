@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "3070E70F2458D898009A97FA"
-               BuildableName = "SequenceHW.app"
+               BuildableName = "HomeWork7.app"
                BlueprintName = "HomeWork7"
                ReferencedContainer = "container:HomeWork7.xcodeproj">
             </BuildableReference>
@@ -45,7 +45,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3070E70F2458D898009A97FA"
-            BuildableName = "SequenceHW.app"
+            BuildableName = "HomeWork7.app"
             BlueprintName = "HomeWork7"
             ReferencedContainer = "container:HomeWork7.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3070E70F2458D898009A97FA"
-            BuildableName = "SequenceHW.app"
+            BuildableName = "HomeWork7.app"
             BlueprintName = "HomeWork7"
             ReferencedContainer = "container:HomeWork7.xcodeproj">
          </BuildableReference>
